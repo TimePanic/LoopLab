@@ -2,9 +2,9 @@
 ## The one page mock social media site
 ----
 LoopLab is a one page mock social media site which was made using: 
-..* HTML5
-..* CSS3
-..* Bootstrap 4
+- HTML5
+- CSS3
+- Bootstrap 4
 
 This site is fully responsive to mobile and makes use of several of the avaliable content from Bootstrap.
 
